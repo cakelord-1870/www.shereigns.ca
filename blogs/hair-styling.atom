@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.shereigns.ca/blogs/hair-styling.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.shereigns.ca/blogs/hair-styling"/>
+  <link rel="self" type="application/atom+xml" href="https://www.shereigns.ca/blogs/hair-styling.atom"/>
+  <title>Weave Got It Canada - Hair Styling</title>
+  <updated>2017-11-05T23:47:00-05:00</updated>
+  <author>
+    <name>Weave Got It Canada</name>
+  </author>
+  <entry>
+    <id>https://www.shereigns.ca/blogs/hair-styling/faq-frequently-asked-questions</id>
+    <published>2017-11-05T23:47:00-05:00</published>
+    <updated>2018-03-08T14:46:22-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.shereigns.ca/blogs/hair-styling/faq-frequently-asked-questions"/>
+    <title>FAQ - Frequently Asked Questions</title>
+    <author>
+      <name>Samantha Renée</name>
+    </author>
+    <content type="html">
+      <![CDATA[<ol>
+<ol>
+<li>
+<h4><a href="https://shereigns.weavegotit.ca/blogs/hair-facts/what-is-a-lace-closure" title="what-is-a-lace-closure">What is a lace closure?</a></h4>
+</li>
+<li>
+<h4><a href="https://shereigns.weavegotit.ca/blogs/hair-facts/what-is-a-silk-closure" title="what-is-a-silk-closure">What is a silk closure?</a></h4>
+</li>
+<li>
+<h4><a href="https://shereigns.weavegotit.ca/blogs/hair-facts/what-is-a-hair-extensions-bundle" title="what-is-a-hair-extensions-bundle">What is a hair extensions bundle?</a></h4>
+</li>
+<li>
+<h4><a href="https://shereigns.weavegotit.ca/blogs/hair-facts/what-is-a-lace-frontal" title="what-is-a-lace-frontal">What is a lace frontal?</a></h4>
+</li>
+<li>
+<h4><a href="https://shereigns.weavegotit.ca/blogs/hair-facts/what-is-a-360-lace-frontal" title="what is a 360 lace frontal">What is a 360 lace frontal?</a></h4>
+</li>
+<li>
+<h4><a href="https://shereigns.weavegotit.ca/blogs/hair-facts/what-is-a-base-wig" title="what-is-a-base-wig">What is a Base Wig?</a></h4>
+</li>
+<li>
+<h4>
+<a href="https://shereigns.weavegotit.ca/blogs/hair-styling/how-many-bundles-of-hair-extensions-do-i-need" title="how-many-bundles-of-hair-extensions-do-i-need">How many bundles of hair extensions do I need?</a> </h4>
+</li>
+<li>
+<h4><a href="https://shereigns.weavegotit.ca/blogs/hair-styling/what-length-hair-extension-bundles-or-wig-do-i-need" title="what-length-hair-extension-bundles-or-wig-do-i-need">What length hair extension bundles or wig do I need?</a></h4>
+</li>
+<li>
+<h4><a href="https://shereigns.weavegotit.ca/blogs/hair-facts/whats-the-difference-between-pack-hair-and-bundles" title="whats-the-difference-between-pack-hair-and-bundles">What's the difference between packs of hair &amp; bundles?</a></h4>
+</li>
+</ol>
+</ol>
+<meta charset="utf-8">]]>
+    </content>
+  </entry>
+</feed>

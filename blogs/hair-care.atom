@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.shereigns.ca/blogs/hair-care.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.shereigns.ca/blogs/hair-care"/>
+  <link rel="self" type="application/atom+xml" href="https://www.shereigns.ca/blogs/hair-care.atom"/>
+  <title>Weave Got It Canada - Hair Care</title>
+  <author>
+    <name>Weave Got It Canada</name>
+  </author>
+</feed>
